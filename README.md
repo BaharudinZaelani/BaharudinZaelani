@@ -1,3 +1,4 @@
+# About me
 Someone who is crazy about program syntax and who doesn't know what love is, and Anime Lovers
 - 👋 Hi, I’m @BaharudinZaelani
 - 👀 I’m interested in Game/Web Developer
@@ -25,7 +26,7 @@ Some Skills i can, not that great but i can do it
 - Unity
 - C#
 
-# Website Made By Me
+# Website made by me
 - [Personal website : baharudinzaelanidev.web.app](https://baharudinzaelanidev.web.app)
 - [Anime Streaming : zawnime.rf.gd](http://zawnime.rf.gd)
 - [Other Anime Streaming : bangnime.web.app](https://bangnime.web.app)
