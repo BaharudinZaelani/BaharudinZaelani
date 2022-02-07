@@ -1,7 +1,7 @@
 Someone who is crazy about program syntax and who doesn't know what love is, and Anime Lovers
 - 👋 Hi, I’m @BaharudinZaelani
 - 👀 I’m interested in Game/Web Developer
-- 🌱 I’m currently learning Wordpress Development
+- 🌱 I’m currently learning Wordpress Development, Unity Engine
 
 # Skills
 Full-stack Developer
@@ -18,6 +18,9 @@ Full-stack Developer
   - Node Js
   - Laravel
   - JAVA
+Game Development
+- Unity
+- C#
 
 # Website Made By Me
 - [Personal website : baharudinzaelanidev.web.app](https://baharudinzaelanidev.web.app)
