@@ -4,7 +4,9 @@ Someone who is crazy about program syntax and who doesn't know what love is, and
 - 🌱 I’m currently learning Wordpress Development, Unity Engine
 
 # Skills
-Full-stack Developer
+Some Skills i can, not that great but i can do it
+
+## Full-stack Developer
 - Front End
   - HTML
   - CSS
@@ -18,7 +20,8 @@ Full-stack Developer
   - Node Js
   - Laravel
   - JAVA
-Game Development
+
+## Game Development
 - Unity
 - C#
 
