@@ -34,3 +34,6 @@ Some Skills i can, not that great but i can do it
 - [Other Blog : blog.androzaw.tech](https://blog.androzaw.tech)
 - [Anime Video API Source video : baharmovie.herokuapp.com](https://baharmovie.herokuapp.com)
 - [Free Collection Presets AM : presetku000.web.app](https://presetku000.web.app/)
+
+# Progress
+- [Design Store Web E-Commerce](https://baharudinzaelani.github.io/BaharudinZaelani/storedes1/)
