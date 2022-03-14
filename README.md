@@ -37,3 +37,4 @@ Some Skills i can, not that great but i can do it
 
 # Progress
 - [Design Store Web E-Commerce](https://baharudinzaelani.github.io/BaharudinZaelani/storedes1/)
+- [Design Template Blogspot-BBLOGAN](https://bblogan00.blogspot.com/)
