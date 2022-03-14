@@ -4,6 +4,12 @@ Someone who is crazy about program syntax and who doesn't know what love is, and
 - 👀 I’m interested in Game/Web Developer
 - 🌱 I’m currently learning Wordpress Development, Unity Engine
 
+# Links
+- [LinkedIn](https://www.linkedin.com/in/baharudinzaelani/)
+- [Facebook](https://www.facebook.com/baharudinzaelani1)
+- [Instagram](https://www.instagram.com/bahar_titik_koma/)
+- [Youtube](https://www.youtube.com/c/BaharDev)
+
 # Skills
 Some Skills i can, not that great but i can do it
 
