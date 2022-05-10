@@ -1,3 +1,5 @@
+![github stats](https://github-readme-stats.vercel.app/api?username=BaharudinZaelani&show_icons=true)
+
 # About me
 Someone who is crazy about program syntax and who doesn't know what love is, and Anime Lovers
 - 👋 Hi, I’m @BaharudinZaelani
