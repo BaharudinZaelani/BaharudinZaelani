@@ -13,12 +13,11 @@ Someone who is crazy about program syntax and who doesn't know what love is, and
 - [Youtube](https://www.youtube.com/c/BaharDev)
 
 ### Front End
-  ![CSS](https://img.shields.io/badge/CSS-5DB5F8?style=for-the-badge)
+  ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
   ![Vue](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vuedotjs&logoColor=61DAFB)
   ![jquey](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-  ![NuxtJs](https://img.shields.io/badge/NuxtJs-45D7B7?style=for-the-badge&logo=nuxtjs&logoColor=white)
   
 ### Back End
   ![PHP](https://img.shields.io/badge/PHP-563D7C?style=for-the-badge&logo=php&logoColor=white)
@@ -29,6 +28,7 @@ Someone who is crazy about program syntax and who doesn't know what love is, and
 ### Game Development
   ![Unity](https://img.shields.io/badge/unity-fff?style=for-the-badge&logo=unity&logoColor=black)
   ![C#](https://img.shields.io/badge/csharp-5c1cff?style=for-the-badge&logo=csharp&logoColor=white)
+  ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 ### Website made by me
 - [Personal website : baharudinzaelanidev.web.app](https://baharudinzaelanidev.web.app)
