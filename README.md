@@ -31,7 +31,8 @@ Someone who is crazy about program syntax and who doesn't know what love is, and
   ![C#](https://img.shields.io/badge/csharp-5c1cff?style=for-the-badge&logo=csharp&logoColor=white)
   ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### Website made by me
+### Portofolio
+- [AkuLirik](http://akulirik.rf.gd/?i=1)
 - [Personal website : baharudinzaelanidev.web.app](https://baharudinzaelanidev.web.app)
 - [Anime Streaming : zawnime.rf.gd](http://zawnime.rf.gd)
 - [Other Anime Streaming : bangnime.web.app](https://bangnime.web.app)
@@ -40,7 +41,5 @@ Someone who is crazy about program syntax and who doesn't know what love is, and
 - [Anime Video API Source video : baharmovie.herokuapp.com](https://baharmovie.herokuapp.com)
 - [Free Collection Presets AM : presetku000.web.app](https://presetku000.web.app/)
 - [Free Blogspot Theme : Ngacode](https://ngacode.androzaw.tech)
-
-### Progress
 - [Design Store Web E-Commerce](https://baharudinzaelani.github.io/BaharudinZaelani/storedes1/)
 - [Design Template Blogspot-BBLOGAN](https://bblogan00.blogspot.com/)
