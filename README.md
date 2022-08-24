@@ -1,13 +1,8 @@
 ![BaharDev](https://i.ibb.co/TmXTHF3/bahardev.png)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=BaharudinZaelani&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaharudinZaelani&layout=compact)
 
-Someone who is crazy about program syntax and who doesn't know what love is, and Anime Lovers
-- 👋 Hi, I’m @BaharudinZaelani
-- 👀 I’m interested in Game/Web Developer
-- 🌱 I’m currently learning Wordpress Development, Unity Engine
-
-### Links
 - [LinkedIn](https://www.linkedin.com/in/baharudinzaelani/)
 - [Facebook](https://www.facebook.com/baharudinzaelani1)
 - [Instagram](https://www.instagram.com/bahar_titik_koma/)
