@@ -40,4 +40,5 @@
 - [Ngacode](https://ngacode.androzaw.tech)
 - [Design Store Web E-Commerce](https://baharudinzaelani.github.io/BaharudinZaelani/storedes1/)
 - [Design Template Blogspot-BBLOGAN](https://bblogan00.blogspot.com/)
+- [Make article easly for blogger](https://thezaww.blogspot.com/2022/09/blogger-api-zawblog-project.html)
 
