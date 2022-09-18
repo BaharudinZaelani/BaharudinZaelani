@@ -26,9 +26,9 @@
   ![C#](https://img.shields.io/badge/csharp-5c1cff?style=for-the-badge&logo=csharp&logoColor=white)
   ![lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-### Portofolio
+### WebGABUT MANGGGGGGg
 - [Website Rest-API Video Streaming](https://zawapi.000webhostapp.com/)
-- [Sukabumi-Art](https://skart.rf.gd)
+- [Sukabumi-Art](https://skartapp.rf.gd)
 - [AkuLirik](http://akulirik.rf.gd/?i=1)
 - [Personal website](https://baharudinzaelanidev.web.app)
 - [Zawnime](http://zawnime.rf.gd)
