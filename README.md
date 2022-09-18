@@ -1,7 +1,7 @@
 ![BaharDev](https://i.ibb.co/TmXTHF3/bahardev.png)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=BaharudinZaelani&show_icons=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=BaharudinZaelani&layout=compact)
+![github stats](https://github-readme-stats.vercel.app/api?username=BaharudinZaelani&count_private=false&show_icons=true&theme=chartreuse-dark)
+![BaharDEV's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zuramai&layout=compact&theme=chartreuse-dark&langs_count=8)
 
 - [LinkedIn](https://www.linkedin.com/in/baharudinzaelani/)
 - [Facebook](https://www.facebook.com/baharudinzaelani1)
