@@ -32,6 +32,38 @@ body {
 	background: rgba(255,0,0,0.4); 
 }
 
+/* download button */
+.download-button {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    background-color: rgb(91, 58, 255);
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 6px;
+}
+.download-button span{
+    padding: 12px;
+}
+.download-button div {
+    border-radius: 6px;
+    padding: 12px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(65, 33, 226);
+}
+.download-button svg {
+    transform: scale(1.7);
+    margin-top: -27px;
+    opacity: 0;
+    transition: 0.4s;
+}
+.download-button:hover svg {
+    margin-top: 0;
+    opacity: 1;
+    transition: 0.4s;
+}
+
 /* stylesheet */
 header {
     box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px;
