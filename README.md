@@ -5,7 +5,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/baharudinzaelani/)
 - [Facebook](https://www.facebook.com/baharudinzaelani1)
-- [Instagram](https://www.instagram.com/bahar_titik_koma/)
+- [Instagram](https://www.instagram.com/bahardev_/)
 - [Youtube](https://www.youtube.com/c/BaharDev)
 
 ### Front End
