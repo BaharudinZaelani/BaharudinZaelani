@@ -1,7 +1,7 @@
 ![BaharDev](https://i.ibb.co/TmXTHF3/bahardev.png)
 
 <div style="width: 100vw; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuramai&layout=compact&theme=chartreuse-dark&langs_count=8"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BaharudinZaelani&layout=compact&theme=chartreuse-dark&langs_count=8"/>
 </div>
 
 <h3 align="left">Connect with me:</h3>
